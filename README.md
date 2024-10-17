@@ -10,7 +10,7 @@
 6.	The steps are repeated till ‘$’ is reached.
 7.	To reach a variable, enter the variable to be searched and symbol table has been checked for corresponding variable, the variable along with its address is displayed as result.
 8.	Stop the program. 
-# PROGRAM
+# PROGRAM:
 ```
 #include <stdio.h> 
 #include <ctype.h> 
@@ -86,8 +86,10 @@ int main() {
     return 0;
 }
 ```
-# OUTPUT
-![CD EX 01 IMG](https://github.com/user-attachments/assets/6f634e6b-303f-4494-b68c-9265af07a4fb)
+# OUTPUT:
 
-# RESULT
+![CD EX 01 IMG](https://github.com/user-attachments/assets/349f8e49-d27d-40e4-b10a-5f06475adb31)
+
+
+# RESULT:
 ### The program to implement a symbol table is executed and the output is verified.
